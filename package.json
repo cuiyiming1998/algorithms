@@ -15,7 +15,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "vitest daily-js/",
+    "test": "vitest",
     "test:ui": "vitest --ui",
     "coverage": "vitest run --coverage",
     "commit": "git add . && cz-customizable",
